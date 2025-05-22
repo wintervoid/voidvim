@@ -1,2 +1,2 @@
 require("wintervoid")
-print("hello")
+-- print("hello")
