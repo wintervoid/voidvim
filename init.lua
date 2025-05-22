@@ -1,0 +1,2 @@
+require("wintervoid")
+print("hello")
